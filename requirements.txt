@@ -1,0 +1,6 @@
+streamlit== 1.36.0
+requests
+pandas
+openai==1.35.7
+pydantic
+xlsxwriter
